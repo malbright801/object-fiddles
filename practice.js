@@ -8,7 +8,11 @@
 
   //Code here
 
-
+var me = {
+  name: "Michael",
+  age: "40"
+} 
+alert(me.name);
 
 
 
@@ -22,7 +26,14 @@
 
   //Code here
 
-
+var favoriteThings = {
+  band: "Mandolin Orange",
+  food: "Tator Tot Casserole",
+  person: "Wife & kids",
+  book: "Scriptures",
+  movie: "Star Wars",
+  holiday: "Christmas"
+}
 
 
 
@@ -32,7 +43,8 @@
 
   //Code here
 
-
+favoriteThings.car = "Civic";
+favoriteThings.brand = "McDonalds";
 
 
 
@@ -40,7 +52,8 @@
 
   //Code here
 
-
+favoriteThings.food = "Chicken Nuggets"
+favoriteThings.book = "Harry Potter"
 
 
 
@@ -60,7 +73,8 @@ that is named color, with the value being the color of your backpack.
 
   //Code here
 
-
+var backPack = {};
+var item = 'firstPocket';
 
 
 
